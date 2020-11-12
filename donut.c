@@ -37,7 +37,7 @@ int main() {
             A += 0.00004;
             B += 0.00002;
         }
-        usleep(30000);
+        usleep(20000);
     }
     return 0;
 }
